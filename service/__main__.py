@@ -27,4 +27,4 @@ while True:
     else:
         logger.info("============== End of Execution at {}  =============".format(
             time.asctime()))
-    sleep.time(600)
+    time.sleep(600)
